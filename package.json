@@ -1,0 +1,25 @@
+{
+  "name": "oktavheft",
+  "version": "0.1.0",
+  "description": "kafka + node streams - a proof of concept.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafka",
+    "protobuffer",
+    "rpc",
+    "microservice"
+  ],
+  "author": "Sourav Ray <me@raysourav.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "asciichart": "^1.5.7",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
+    "chalk": "^2.4.1",
+    "kafka-node": "^2.6.1",
+    "lodash": "^4.17.10"
+  }
+}
