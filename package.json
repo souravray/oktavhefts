@@ -1,7 +1,7 @@
 {
   "name": "oktavheft",
   "version": "0.1.0",
-  "description": "kafka + node streams - a proof of concept. Check xblockchainlabs/Willa",
+  "description": "kafka + node streams - a proof of concept",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
